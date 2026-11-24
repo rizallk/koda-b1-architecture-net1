@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KodaCinema.Api/KodaCinema.Api.csproj" />
+    <Project Path="src/KodaCinema.Application/KodaCinema.Application.csproj" />
+    <Project Path="src/KodaCinema.Domain/KodaCinema.Domain.csproj" />
+    <Project Path="src/KodaCinema.Infrastructure/KodaCinema.Infrastructure.csproj" />
+  </Folder>
+</Solution>
